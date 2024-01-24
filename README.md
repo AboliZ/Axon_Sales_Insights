@@ -3,7 +3,7 @@
 ## Overview
 Welcome to Axon Sales Insights! This project delves into the comprehensive analysis of sales data from a diverse range of transportation modes, including trucks, buses, planes, trains, and motorcycles. Leveraging the prowess of Microsoft Power BI and SQL, this initiative aims to extract meaningful insights from Axon's sales records across these varied vehicle categories.
 
-![Axon Sales Insights GIF](https://github.com/AboliZ/Axon_Sales_Insights/assets/146463964/8150bfb7-ae8d-4b42-86f0-b38524ae0ab7)
+![Axon Sales Insights GIF](https://github.com/AboliZ/Axon_Sales_Insights/assets/146463964/c3ce6f0d-281c-40f4-92c3-5539e8c27f56)
 
 
 ## Project Highlights
